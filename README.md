@@ -23,7 +23,7 @@ Run with
 > $SPARK_HOME/bin/spark-submit --class de.michaelgoettsche.SparkTwitterHelloWorldExample target/SparkTwitterHelloWorldExample-1.0-jar-with-dependencies.jar
 
 
-Tested with: 
+Tested with:
 Spark 1.1.1
 Java: 1.7
 Maven: 3.2.3
